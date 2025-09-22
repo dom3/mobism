@@ -1,0 +1,27 @@
+{
+  "entity.harsh_words.1": "You stupid player.",
+  "entity.harsh_words.2": "You stupid block builder.",
+  "entity.harsh_words.3": "Imagine having a big inventory.",
+  "entity.harsh_words.4": "You stupid hunger bar haver.",
+  "entity.harsh_words.5": "Imagine having a name like %p%. Such a \"player\" name.",
+  "entity.harsh_words.6": "I swear I just smelled a dirty block builder.",
+  "entity.harsh_words.7": "I just wish we could get rid of all players. Oops, didn't see you there.",
+  "entity.harsh_words.8": "Oh sorry, we don't allow players in this biome.",
+  "entity.harsh_words.9": "Oh sorry, we don't allow your entity type in this biome.",
+  "entity.harsh_words.10": "Oh sorry, we don't allow your entity type in this dimension.",
+  "entity.harsh_words.11": "Excuse me- I- oh, thought you were a zombie, never mind.",
+  "entity.harsh_words.12": "Excuse me- I- oh, thought you were a creeper, never mind.",
+  "entity.harsh_words.13": "Excuse me- I- oh, thought you were a villager, never mind.",
+
+  "entity.harsh_words.baby.ask.1": "Mom? Dad? What's that?",
+  "entity.harsh_words.baby.ask.2": "Mom? Dad? What's that? It looks scary!",
+  "entity.harsh_words.baby.1": "That's a player honey, don't go near it.",
+  "entity.harsh_words.baby.2": "That's a player honey, be careful around it.",
+  "entity.harsh_words.baby.3": "That's a player baby, don't go near it.",
+  "entity.harsh_words.baby.4": "That's a player baby, be careful around it.",
+
+  "entity.harsh_words.villager.1": "Sorry, I don't trade with players.",
+  "entity.harsh_words.villager.2": "Sorry, I don't trade with-- you know, players.",
+  "entity.harsh_words.villager.3": "Sorry, I don't trade with-- your entity type.",
+  "entity.harsh_words.villager.4": "Sorry, I just.. don't want to trade right now."
+}
